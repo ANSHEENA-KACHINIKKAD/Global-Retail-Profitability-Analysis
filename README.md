@@ -56,3 +56,5 @@ File/Folder                                                     	(Description)
 Global Profitability Review.pdf                     	           ( The complete 5-slide presentation deck used to communicate findings and the Action Plan.)
 
 superstore_dataset2011-2015 (version 1).xlsb	                   ( Excel workbook containing the raw data, outlier calculations, and final Pivot Tables/Charts.)
+
+superstore_dataset2011-2015.csv%20(1).zip                        ( uncleaned dataset)
